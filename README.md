@@ -31,13 +31,13 @@ penal_code_compare/
 ```
 
 Each code folder (like `california/`, `texas/`, etc.) contains 7 HTML files:
-- `contents.html` - Table of contents
-- `part1.html` - Part I (General Part)
-- `preliminary.html` - Preliminary section
-- `generalPrinciplesOfLiability.html` - General Principles of Liability
-- `generalPrinciplesOfJustification.html` - General Principles of Justification
-- `responsibility.html` - Responsibility section
-- `inchoateCrimes.html` - Inchoate Crimes section
+- `contents.html`
+- `part1.html` 
+- `preliminary.html`
+- `generalPrinciplesOfLiability.html`
+- `generalPrinciplesOfJustification.html`
+- `responsibility.html`
+- `inchoateCrimes.html`
 
 ## How to Update Content
 
